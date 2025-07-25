@@ -1,1 +1,1 @@
-# Xfce4 Player Plugin# xfce4-player-plugin
+# xfce4-player-plugin
