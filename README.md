@@ -5,18 +5,18 @@
     <h3>A brief introduction.</h3>
 </div>
 
+<!-- 徽章 -->
+<div align="center">
+[![release](https://img.shields.io/github/v/release/yaobiao131/downkyicore)](https://github.com/yaobiao131/downkyicore/releases/latest)
+[![LICENSE](https://img.shields.io/github/license/yaobiao131/downkyicore)](https://github.com/yaobiao131/downkyicore/blob/main/LICENSE)
+</div>
+
 <!-- 不同语言的README.md -->
 <div align="center">
     <a href="README.md">简体中文</a> | <a href="README.en.md">English</a>
 </div>
 
-<!-- 徽章 -->
-<div align="center">
-    
-[![release](https://img.shields.io/github/v/release/yaobiao131/downkyicore)](https://github.com/yaobiao131/downkyicore/releases/latest)
-[![LICENSE](https://img.shields.io/github/license/yaobiao131/downkyicore)](https://github.com/yaobiao131/downkyicore/blob/main/LICENSE)
 
-</div>
 
 # 目录
 
