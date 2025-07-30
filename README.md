@@ -12,8 +12,11 @@
 
 <!-- 徽章 -->
 <div align="center">
+    
 [![release](https://img.shields.io/github/v/release/yaobiao131/downkyicore)](https://github.com/yaobiao131/downkyicore/releases/latest)
+    
 [![LICENSE](https://img.shields.io/github/license/yaobiao131/downkyicore)](https://github.com/yaobiao131/downkyicore/blob/main/LICENSE)
+
 </div>
 
 # 目录
