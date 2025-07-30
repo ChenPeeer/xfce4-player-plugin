@@ -1,7 +1,7 @@
 <!-- 介绍 -->
 <div align="center">
     <img src="./screenshots/icon.png" />
-    <h1>PROJECT NAME</h1>
+    <h1>Project Name</h1>
     <h3>A brief introduction.</h3>
 </div>
 
